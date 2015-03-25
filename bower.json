@@ -1,0 +1,29 @@
+{
+  "name": "es6-test",
+  "version": "0.0.0",
+  "homepage": "https://github.com/florianherrengt/es6-test",
+  "authors": [
+    "florianherrengt <florian.herrengt@gmail.com>"
+  ],
+  "moduleType": [
+    "es6"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "es6-module-loader": "~0.16.0",
+    "requirejs": "~2.1.16",
+    "backone.native": "*",
+    "backbone": "~1.1.2",
+    "lodash": "~3.6.0"
+  },
+  "devDependencies": {
+    "almond": "~0.3.1"
+  }
+}
